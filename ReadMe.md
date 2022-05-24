@@ -12,3 +12,9 @@ Data Preparation is very important/tricky task especially it becomes hard when y
 MID() : use for selecting spacific text from text data in the EXCEL CELL.
 
 TIME(): used to convert text into time data so, EXCEL can perform time calculaiton.
+
+## Data analysis
+It is the time to analyze the data that we have processed. In any simulation we usually generate sample values of all the random variables by Inverse Transform Method. The method is very common in the simulation, and it will require specific distributions for each random variable to generate sample data. Question is How to select specific distributions for random variables? The answer is real data, we just need to find out which distribution is perfectly fit to the random variables in the real data that we have collected from “flightaware.com” and histogram is the way we can find the distribution. 
+
+## Simulaion
+The Monte Carlo Simultion is prasented in the attached file "Simulation of JFK-LAX.xlsx" 
