@@ -10,4 +10,5 @@ Data Preparation is very important/tricky task especially it becomes hard when y
 
 ### Noteble Excel Functions
 MID() : use for selecting spacific text from text data in the EXCEL CELL.
+
 TIME(): used to convert text into time data so, EXCEL can perform time calculaiton.
